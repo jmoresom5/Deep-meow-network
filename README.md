@@ -21,18 +21,21 @@ The original course materials, datasets, and exercises are property of **DeepLea
 ---
 
 ## Project Structure
-
+```text
+deep-meow-network/
 ├── dataset/
-│ ├── train_catvnoncat.h5
-│ └── test_catvnoncat.h5
+│   ├── train_catvnoncat.h5
+│   └── test_catvnoncat.h5
 ├── images/
-│ ├── Cat_OK.png
-│ └── Cat_NOK.png
-│ └── cost_iterations_2Layer_NN.png
-│ └── cost_iterations_4Layer_NN.png
+│   ├── Cat_OK.png
+│   ├── Cat_NOK.png
+│   ├── cost_iterations_2Layer_NN.png
+│   └── cost_iterations_4Layer_NN.png
 ├── dnn_utils.py
+├── planar_utils.py
 ├── main.py
 └── README.md
+```
 
 ---
 
@@ -124,5 +127,6 @@ Classes are defined as:
 ---
 
 ## Author
+
 
 **Jordi Moreso Milan**
