@@ -104,9 +104,10 @@ Classes are defined as:
     **Test Accuracy:** 80%
 
 -   With the Four-layer deep neural network, it has been possible to see:
-    **Recognized CATS:**
+    
+    - **Recognized CATS:**
     ![Cats recognized](images/Cat_OK.png)
-    **Unrecognized CATS:**
+    - **Unrecognized CATS:**
     ![Cats not recognized](images/Cat_NOK.png)
     During testing, some cat images were not classified correctly. This usually happened in situations such as:
     - Cats in **unusual poses** (e.g., curled up or partially hidden).
@@ -132,4 +133,5 @@ Classes are defined as:
 
 
 **Jordi Moreso Milan**
+
 
